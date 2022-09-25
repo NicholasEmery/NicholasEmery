@@ -1,4 +1,4 @@
-Hello 👋, I'm @HoYzera
+Hello 👋, I'm @Nicholas Emery
 - I'm 👀 interested in working as a freelance.
 - 🌱 I'm learning HTML, CSS and JavaScript.
 - 📫 Contact me on Instagram: @nickeemery
