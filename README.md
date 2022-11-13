@@ -19,18 +19,17 @@
     
   
   <h1 align="center">Social Networks</h1>
-    
     <a href = "mailto: nicholasemery10@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="">
     </a>
     <a href = "https://www.linkedin.com/in/nicholas-emery-367117253/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="">
     </a>
     <a href = "https://www.instagram.com/nickeemery/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="">
     </a>
     <a href = "https://twitter.com/nickeemery">
-      <img height="22" width="35" src="twitter.png">
+      <img width="30" src="twitter.png">
     </a>
 
   ![Snake animation](https://github.com/NicholasEmery/NicholasEmery/blob/output/github-contribution-grid-snake.svg)
