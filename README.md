@@ -30,7 +30,10 @@
     <a href = "https://twitter.com/nickeemery">
       <img width="25" src="twitter.png">
     </a>
-
+    <a href = "https://discord.gg/bzPKF7Jr">
+      <img width="25" src="discord.png">
+    </a>
+  
   ![Snake animation](https://github.com/NicholasEmery/NicholasEmery/blob/output/github-contribution-grid-snake.svg)
  
 </div>
