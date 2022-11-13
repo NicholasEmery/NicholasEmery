@@ -1,5 +1,4 @@
 ## Hi, I'm Nicholas Emery and I'm studying to be a Developer Junior 📚| Front-End
-
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=NicholasEmery&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -20,16 +19,16 @@
   
   <h1 align="center">Social Networks</h1>
     <a href = "mailto: nicholasemery10@gmail.com">
-      <img width="30" src="">
+      <img width="25" src="gmail.png">
     </a>
     <a href = "https://www.linkedin.com/in/nicholas-emery-367117253/">
-      <img width="25" src="">
+      <img width="25" src="linkedin.png">
     </a>
     <a href = "https://www.instagram.com/nickeemery/">
-      <img width="25" src="">
+      <img height="26" width="25" src="instagram.png">
     </a>
     <a href = "https://twitter.com/nickeemery">
-      <img width="30" src="twitter.png">
+      <img width="25" src="twitter.png">
     </a>
 
   ![Snake animation](https://github.com/NicholasEmery/NicholasEmery/blob/output/github-contribution-grid-snake.svg)
