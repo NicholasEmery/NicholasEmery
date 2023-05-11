@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/nicholas-emery-367117253/" target="_blank"><img width="30" src="linkedin.png"></a>
 <a href="https://www.instagram.com/nickeemery/" target="_blank"><img width="30" src="instagram.png"></a>
 <a href="https://twitter.com/nickeemery" target="_blank"><img width="30" src="twitter.png"></a>
-<a href="https://discord.gg/bzPKF7Jr" target="_blank"><img width="30" src="discord.png"></a>
+<a href="https://discord.com/channels/@me" target="_blank"><img width="30" src="discord.png"></a>
 <a href="mailto: nicholasemery10@gmail.com" target="_blank"><img width="30" src="gmail.png"></a>
 </div> 
  
